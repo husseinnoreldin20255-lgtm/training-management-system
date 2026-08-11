@@ -1,0 +1,4 @@
+window.TMS_CONFIG = {
+  SUPABASE_URL: 'https://eugbdnynhwrhmlgpcupb.supabase.co',
+  SUPABASE_ANON_KEY: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImV1Z2JkbnluaHdyaG1sZ3BjdXBiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODYzMTcxNTAsImV4cCI6MjEwMTg5MzE1MH0.PuWA4M81SyD_ikgrYJFLq0ScrXG4DvoZx8qFWhMZKII'
+};
